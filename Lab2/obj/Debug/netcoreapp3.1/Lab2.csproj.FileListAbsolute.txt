@@ -1,0 +1,14 @@
+F:\2 semestr\OP\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+F:\2 semestr\OP\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+F:\2 semestr\OP\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+F:\2 semestr\OP\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+F:\2 semestr\OP\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+F:\2 semestr\OP\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+F:\2 semestr\OP\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.AssemblyReference.cache
+F:\2 semestr\OP\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\2 semestr\OP\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+F:\2 semestr\OP\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+F:\2 semestr\OP\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+F:\2 semestr\OP\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+F:\2 semestr\OP\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+F:\2 semestr\OP\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache

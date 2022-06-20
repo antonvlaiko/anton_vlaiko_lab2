@@ -1,0 +1,13 @@
+F:\2 semestr\OP\Lab2\Lab2zavd2\bin\Debug\netcoreapp3.1\Lab2zavd2.exe
+F:\2 semestr\OP\Lab2\Lab2zavd2\bin\Debug\netcoreapp3.1\Lab2zavd2.deps.json
+F:\2 semestr\OP\Lab2\Lab2zavd2\bin\Debug\netcoreapp3.1\Lab2zavd2.runtimeconfig.json
+F:\2 semestr\OP\Lab2\Lab2zavd2\bin\Debug\netcoreapp3.1\Lab2zavd2.runtimeconfig.dev.json
+F:\2 semestr\OP\Lab2\Lab2zavd2\bin\Debug\netcoreapp3.1\Lab2zavd2.dll
+F:\2 semestr\OP\Lab2\Lab2zavd2\bin\Debug\netcoreapp3.1\Lab2zavd2.pdb
+F:\2 semestr\OP\Lab2\Lab2zavd2\obj\Debug\netcoreapp3.1\Lab2zavd2.GeneratedMSBuildEditorConfig.editorconfig
+F:\2 semestr\OP\Lab2\Lab2zavd2\obj\Debug\netcoreapp3.1\Lab2zavd2.AssemblyInfoInputs.cache
+F:\2 semestr\OP\Lab2\Lab2zavd2\obj\Debug\netcoreapp3.1\Lab2zavd2.AssemblyInfo.cs
+F:\2 semestr\OP\Lab2\Lab2zavd2\obj\Debug\netcoreapp3.1\Lab2zavd2.csproj.CoreCompileInputs.cache
+F:\2 semestr\OP\Lab2\Lab2zavd2\obj\Debug\netcoreapp3.1\Lab2zavd2.dll
+F:\2 semestr\OP\Lab2\Lab2zavd2\obj\Debug\netcoreapp3.1\Lab2zavd2.pdb
+F:\2 semestr\OP\Lab2\Lab2zavd2\obj\Debug\netcoreapp3.1\Lab2zavd2.genruntimeconfig.cache
